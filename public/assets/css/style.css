@@ -1,0 +1,125 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+}
+
+header{
+    background-color: #7395ae;
+    padding: 20px;
+    display: flex;
+}
+
+header h1{
+    margin-left: 20%;
+}
+
+header nav{
+    margin: auto 20% auto auto;
+}
+
+body{
+    background-color: rgb(93, 92, 97);
+}
+
+a{
+    text-decoration: none;
+}
+
+.content{
+    margin: auto;
+}
+
+.form{
+    background-color: #b1a296;
+    border-radius: 5px;
+    padding: 30px;
+    margin: auto;
+    box-shadow: 2px 2px 15px #888888;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.form p{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.form * {
+    margin-bottom: 10px;
+}
+
+.form input{
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.form a{
+    font-size: .9em;
+    color: #6A8EAE;
+}
+
+.form .forgot-link{
+    text-align: left;
+}
+
+.form button{
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: #af6712;
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+.form label{
+    text-align: left;
+}
+
+.registration-form{
+
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+}
+
+.registration-form p, button{
+    grid-column: 1 / -1;
+}
+
+.all-films-table{
+    border-collapse: collapse;
+}
+
+th, td{
+    border-bottom: 2px solid #557a95;
+    padding: 10px 0;
+}
+
+.table-body tr:hover{
+    cursor: pointer;
+    background-color: gainsboro;
+}
+
+.all-films-table th{
+    padding: 20px;
+}
+
+.all-films-table td{
+    text-align: center;
+}
+
+.profile-grid{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 30px;
+    text-align: left;
+}
