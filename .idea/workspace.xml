@@ -3,13 +3,36 @@
   <component name="ChangeListManager">
     <list default="true" id="2f78570d-f5a4-4ea7-8925-c264e0e50472" name="Default Changelist" comment="Init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/films/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/films/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/films/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/films/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/films/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/films/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/reviews/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/reviews/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/reviews/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/reviews/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/reviews/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/reviews/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/reset.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/reset.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/paginator.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/paginator.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/user/films/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/user/films/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/user/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/user/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/user/profile/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/user/profile/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/user/reviews/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/user/reviews/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/user/reviews/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/user/reviews/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/user/reviews/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/user/reviews/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor.7z" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="DONT_SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -169,6 +192,8 @@
       <workItem from="1635781858951" duration="753000" />
       <workItem from="1635783554652" duration="1717000" />
       <workItem from="1636144967770" duration="1953000" />
+      <workItem from="1636705791625" duration="480000" />
+      <workItem from="1636739955690" duration="251000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1636145548183</created>

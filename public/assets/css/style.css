@@ -8,7 +8,7 @@ html, body{
 }
 
 header{
-    background-color: #7395ae;
+    background-color: #D1FAFF;
     padding: 20px;
     display: flex;
 }
@@ -22,7 +22,7 @@ header nav{
 }
 
 body{
-    background-color: rgb(93, 92, 97);
+    background-color: #9BD1E5;
 }
 
 a{
@@ -34,7 +34,7 @@ a{
 }
 
 .form{
-    background-color: #b1a296;
+    background-color: white;
     border-radius: 5px;
     padding: 30px;
     margin: auto;
@@ -75,7 +75,7 @@ a{
     border: 2px solid black;
     border-radius: 3px;
     padding: 10px;
-    background-color: #af6712;
+    background-color: #157145;
     color: whitesmoke;
     cursor: pointer;
 }
@@ -100,7 +100,7 @@ a{
 }
 
 th, td{
-    border-bottom: 2px solid #557a95;
+    border-bottom: 2px solid #57A773;
     padding: 10px 0;
 }
 
